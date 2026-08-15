@@ -1,6 +1,6 @@
 👋 Tentang Saya
 
-Hai, saya **Imam Mubaraq** — seorang pembelajar yang terus-menerus tertarik pada Analisis Sistem dan Pengembangan Web.
+Hai, saya **Imam Mubaraq** — seorang pembelajar yang terus-menerus tertarik pada busines sistem analis, technical writer, database dan Pengembangan Web.
 
 🌱 Saat ini saya sedang meningkatkan keterampilan saya dalam analisis sistem, pemahaman proses bisnis, integrasi API, dan teknologi pengembangan web modern seperti JavaScript dan ReactJS.
 
